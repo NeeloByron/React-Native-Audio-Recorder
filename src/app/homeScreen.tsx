@@ -19,8 +19,6 @@ export default function HomeScreen() {
               <Ionicons name="settings-outline" size={22} color="white" />
             </TouchableOpacity>
           </View>
-
-          <Text className="mt-3 text-base text-gray-400">Capture your thoughts, anytime.</Text>
         </View>
 
         {/* Search */}
